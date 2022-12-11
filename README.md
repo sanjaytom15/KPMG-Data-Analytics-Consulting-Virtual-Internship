@@ -1,7 +1,9 @@
 # KPMG-Data-Analytics-Consulting-Virtual-Internship
 
-This Data Analytics Virtual Experience Program helped me develop an understanding of the work process in a data analytics project. I Completed practical task modules in:
-
+Completed over the period of 01 September - 27 September 2022
+This Data Analytics Virtual Experience Program helped me develop an understanding of the work process in a data analytics project.
+## Tasks
+Completed practical task modules in:
 ## Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis.
 
